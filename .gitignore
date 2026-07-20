@@ -1,0 +1,13 @@
+# SQL clients and local exports
+*.csv
+*.xlsx
+*.log
+*.tmp
+*.bak
+.env
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
